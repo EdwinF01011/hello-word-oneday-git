@@ -1,2 +1,2 @@
 # hello-word-oneday-git
-primer ejercicio aprendiendo git
+haciendo pruebas con GIT Y HUB, xd
